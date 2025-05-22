@@ -24,7 +24,7 @@ An extension of Obsidian that uses vector search and LLM to answer questions abo
 
 ```bash
 git clone <repository-url>
-cd dnd_llm
+cd obsidian-llm
 ```
 
 2. Install dependencies:
